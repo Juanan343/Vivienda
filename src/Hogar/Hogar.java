@@ -30,6 +30,8 @@ public class Hogar {
         System.out.println("¿Dispone de parking?: " + casa1.parking);
         System.out.println("Estado: "+ casa1.estado);
         System.out.println("Propietario: "+ casa1.propietario);
+        
+        System.out.println("holamundo");
     }
     
 }
